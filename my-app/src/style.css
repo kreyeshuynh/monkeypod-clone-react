@@ -1,0 +1,32 @@
+.nav-item {
+  font-family: "RosewoodStd-Fill", serif;
+  color: #642201;
+}
+
+#centerText {
+  background-color: #d8af99;
+  height: 300px;
+}
+
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  color: #642201;
+  padding-top: 10px;
+}
+
+h3 {
+  font-family: "RosewoodStd-Fill", serif;
+  color: #642201
+}
+
+#centerText {
+  background-color: #d8af99;
+  height: 300px;
+}
+
+#mailing {
+  background-color: green;
+  height: 300px;
+  width: 100%;
+}
